@@ -20,7 +20,7 @@ sleep 1
 flag=0
 
 clear
-wget --quiet -O iplist.txt https://raw.githubusercontent.com/0613561761za/sshpanel/ip.txt
+wget --quiet -O iplist.txt https://raw.githubusercontent.com/0613561761za/sshpanel/master/ip.txt
 
 iplist="iplist.txt"
 
